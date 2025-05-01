@@ -1,5 +1,8 @@
 # Real Estate Analysis in France (2019-2022)
 
+Below is an animated GIF of the presentation that summarizes the key findings and methodologies used in this project.
+![Presentation](images/Presentation.gif)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
