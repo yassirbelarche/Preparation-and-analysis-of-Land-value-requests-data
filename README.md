@@ -1,6 +1,6 @@
 # Real Estate Analysis in France (2019-2022)
 
-Below is a presentation summarizing the key findings and methodologies used in this project.
+Below is a presentation summarizing the key findings and methodologies used.
 
 ![Presentation](images/Presentation.gif)
 
@@ -12,9 +12,8 @@ Below is a presentation summarizing the key findings and methodologies used in t
 5. [Results](#results)
 6. [Technologies Used](#technologies-used)
 7. [How to Run](#how-to-run)
-8. [Visualizations](#visualizations)
-9. [Challenges and Solutions](#challenges-and-solutions)
-10. [Future Work](#future-work)
+8. [Challenges and Solutions](#challenges-and-solutions)
+9. [Future Work](#future-work)
 
 ## Introduction
 This project analyzes real estate transaction trends in France from 2019 to 2022 using the "Demande de Valeurs Foncières" (DVF) dataset. The goal is to explore variations in sales by departments, property value distributions for houses and apartments, house surface area distributions, and identify the top cities by sales volume in 2021.
@@ -62,12 +61,6 @@ For local setup:
 5. Download the DVF dataset and adjust the data paths in the notebook.
 
 Given the complexity of local Spark setup, running on Google Colab is recommended.
-
-## Visualizations
-- ![Box Plot: Sales by Departments](images/sales_by_departments.png)
-- ![Line Plot: Property Values Over Time](images/property_values_trend.jpg)
-- ![Box Plot: House Surface Areas](images/house_surface_areas.jpg)
-- ![Top 50 Cities by Sales in 2021](images/top_50_cities_2021.jpg)
 
 ## Challenges and Solutions
 - Handling large datasets: Used PySpark to efficiently process the data.
