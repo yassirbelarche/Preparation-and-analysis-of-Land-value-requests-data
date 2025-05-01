@@ -61,9 +61,9 @@ Given the complexity of local Spark setup, running on Google Colab is recommende
 
 ## Visualizations
 - ![Box Plot: Sales by Departments](images/sales_by_departments.png)
-- ![Line Plot: Property Values Over Time](images/property_values_trend.png)
-- ![Box Plot: House Surface Areas](images/house_surface_areas.png)
-- ![Top 50 Cities by Sales in 2021](images/top_50_cities_2021.png)
+- ![Line Plot: Property Values Over Time](images/property_values_trend.jpg)
+- ![Box Plot: House Surface Areas](images/house_surface_areas.jpg)
+- ![Top 50 Cities by Sales in 2021](images/top_50_cities_2021.jpg)
 
 ## Challenges and Solutions
 - Handling large datasets: Used PySpark to efficiently process the data.
